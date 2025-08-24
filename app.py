@@ -154,8 +154,7 @@ apply_custom_css()
 
 
 # Streamlit UI
-st.set_page_config(page_title="DocuQuery AI", layout="wide")
-st.set_page_config(page_title="DocuQuery AI", layout="wide")
+st.set_page_config(page_title="InsightDoc AI", layout="wide")
 
 st.markdown(
     """
@@ -327,4 +326,5 @@ with st.expander("💡 Tips for better results"):
     - For complex questions, break them down into multiple simpler questions
     - The chatbot can only answer based on the documents you've uploaded
     - Larger chunk sizes may work better for technical documents
+
     """)
