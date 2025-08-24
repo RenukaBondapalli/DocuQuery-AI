@@ -165,7 +165,7 @@ st.markdown(
         box-shadow: 0px 6px 15px rgba(0,0,0,0.2);
         text-align: center;
     '>
-        <h1 style='color: #ffffff; margin-bottom: 12px; font-size: 42px;'>DocuQuery AI</h1>
+        <h1 style='color: #ffffff; margin-bottom: 12px; font-size: 42px;'>PDF Insights AI</h1>
         <p style='color: #f0f0f0; font-size:20px; margin: 0;'>
             Unlock knowledge from documents with intelligent search and insights.
         </p>
@@ -328,4 +328,5 @@ with st.expander("💡 Tips for better results"):
     - Larger chunk sizes may work better for technical documents
 
     """)
+
 
