@@ -154,7 +154,7 @@ apply_custom_css()
 
 
 # Streamlit UI
-st.set_page_config(page_title="InsightDoc AI", layout="wide")
+st.set_page_config(page_title="PDF-Insights-AI", layout="wide")
 
 st.markdown(
     """
@@ -328,3 +328,4 @@ with st.expander("💡 Tips for better results"):
     - Larger chunk sizes may work better for technical documents
 
     """)
+
